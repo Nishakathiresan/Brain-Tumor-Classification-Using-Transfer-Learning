@@ -56,3 +56,11 @@ https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset
 - Grad-CAM Visualization
 - Multi-Class Tumor Classification
 - EfficientNet Implementation
+## Project Output
+
+The following images demonstrate the model's performance and evaluation results.
+
+- Model Summary
+- Classification Report
+- Confusion Matrix
+- Prediction Results
